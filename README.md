@@ -1,4 +1,4 @@
-# Redes neuronales. Prediccion numérica
+# Redes neuronales. Predicción numérica
 ![alt_text](https://static.eldiario.es/clip/fc1fb47c-8f92-4b47-89da-7efe13daaebd_16-9-aspect-ratio_default_0.jpg "El Diario")
 
 En este ejercicio he realizado por primera vez una red neuronal. En este caso la red neuronal se encargará de predecir números del 0 al 9, en base a un dibujo de 28x28 píxeles.
